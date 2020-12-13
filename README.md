@@ -9,4 +9,4 @@ I double checked to make sure thateach dataframe had 365 values for the new colu
 Intially I created a scatterplotmatrix to identify any trends between variables
 ![Scatterplot matrix](https://github.com/clayton-summitt/weather/blob/main/matrix.png)
 
-
+The strongest trends are between actual and average temps (min, mean, max). We should not be surprised by this. The distributions of actual mean temp by city looked interesting and from here I examined the distributions of these values more closely with a plotly histogram plot https://chart-studio.plotly.com/~congruency/436
